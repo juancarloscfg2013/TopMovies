@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  border-color: brown;
+  border-width: 2px solid;
+}
+.div {
+  flex-direction: column;
+  padding: 100px;
+  
+}
